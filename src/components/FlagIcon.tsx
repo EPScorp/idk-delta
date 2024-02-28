@@ -22,7 +22,7 @@ export function FlagIcon(props: FlagIconProps) {
   if (props.langCode === "pirate")
     return (
       <div className="w-8 h-6 rounded bg-[#c8e1ed] flex justify-center items-center">
-        <img src="/flags/skull.svg" className="w-7 h-5" />
+        <img src="/flags/skull.svg" className="w-8 h-6" />
       </div>
     );
 
