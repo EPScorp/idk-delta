@@ -16,7 +16,7 @@ const config: Config = {
 
       /* fonts */
       fontFamily: {
-        "noto-sans": "'Noto Sans'",
+        "roboto-condensed": "'Roboto Condensed'",
       },
 
       /* animations */
