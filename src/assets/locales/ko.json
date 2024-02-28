@@ -90,7 +90,7 @@
     "tagline": "이 오픈 소스 스트리밍 앱으로 좋아하는 프로그램과 영화를 시청하세요."
   },
   "global": {
-    "name": "무비-웹",
+    "name": "idk-delta",
     "pages": {
       "about": "소개",
       "dmca": "DMCA",
@@ -387,7 +387,7 @@
       "shortRemaining": "-{{timeLeft}}"
     },
     "turnstile": {
-      "description": "우측에 있는 캡챠를 통해 인간임을 인증해주새요. 이것은 무비-웹의 안전을 위한 것입니다!",
+      "description": "우측에 있는 캡챠를 통해 인간임을 인증해주새요. 이것은 idk-delta의 안전을 위한 것입니다!",
       "error": "인류애를 인증하는 데에 실패했습니다. 다시 시도해주새요.",
       "title": "당신이 로봇이 아닌지 확인해야 합니다.",
       "verifyingHumanity": "인류애 인증 중..."
