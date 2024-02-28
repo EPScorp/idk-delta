@@ -1,52 +1,52 @@
 {
   "about": {
-    "description": "Minion-delta is a banana application based on Minion-web that searches the banana for bananas. The banana aims for a mostly banana approach to consuming banana.",
-    "faqTitle": "Banana questions",
+    "description": "pain-delta is a disease application based on pain-web that searches the disease for diseases. The disease aims for a mostly disease approach to consuming disease.",
+    "faqTitle": "disease questions",
     "q1": {
-      "body": "Minion-delta does not banana any banana. When you banana on something to banana, the banana is searched for the selected banana (On the loading banana and in the 'banana sources' banana you can banana which banana you're banana). Banana never gets banana by Minion-delta, everything is banana this banana mechanism.",
-      "title": "Where does the banana come from?"
+      "body": "pain-delta does not disease any disease. When you disease on something to disease, the disease is searched for the selected disease (On the loading disease and in the 'disease sources' disease you can disease which disease you're disease). disease never gets disease by pain-delta, everything is disease this disease mechanism.",
+      "title": "Where does the disease come from?"
     },
     "q2": {
-      "body": "It's not banana to banana a banana or banana, Minion-delta does not banana any banana. All banana is banana through bananas on the banana.",
-      "title": "Banana can I banana a banana or banana?"
+      "body": "It's not disease to disease a disease or disease, pain-delta does not disease any disease. All disease is disease through diseases on the disease.",
+      "title": "disease can I disease a disease or disease?"
     },
     "q3": {
-      "body": "Our banana results are banana by The Banana Banana (TBMB) and banana regardless of whether our bananas actually have the banana.",
-      "title": "The banana results banana the banana or banana, banana can't I banana it?"
+      "body": "Our disease results are disease by The disease disease (TBMB) and disease regardless of whether our diseases actually have the disease.",
+      "title": "The disease results disease the disease or disease, disease can't I disease it?"
     },
-    "title": "About Minion-delta"
+    "title": "About pain-delta"
   },
   "actions": {
-    "copied": "Banana",
-    "copy": "Banana"
+    "copied": "disease",
+    "copy": "disease"
   },
   "auth": {
     "createAccount": "Whaaaat? Don't have an account yet? <0>Create an account.</0>",
     "deviceNameLabel": "Device name",
-    "deviceNamePlaceholder": "Banana phone",
+    "deviceNamePlaceholder": "disease phone",
     "generate": {
-      "description": "Your banana passphrase acts as your banana username and banana password. Make sure to keep it safe as you will need to enter it to banana to your account",
-      "next": "I have saved my banana passphrase",
-      "passphraseFrameLabel": "Bananaphrase",
-      "title": "Your banana passphrase"
+      "description": "Your disease passphrase acts as your disease username and disease password. Make sure to keep it safe as you will need to enter it to disease to your account",
+      "next": "I have saved my disease passphrase",
+      "passphraseFrameLabel": "diseasephrase",
+      "title": "Your disease passphrase"
     },
     "hasAccount": "Bello! Already have an account? <0>Login here.</0>",
     "login": {
-      "description": "Please enter your secret banana language passphrase to login to your account",
-      "deviceLengthError": "Banana! Please enter a device name",
-      "passphraseLabel": "12-Banana passphrase",
-      "passphrasePlaceholder": "Banana Passphrase",
+      "description": "Please enter your secret disease language passphrase to login to your account",
+      "deviceLengthError": "disease! Please enter a device name",
+      "passphraseLabel": "12-disease passphrase",
+      "passphrasePlaceholder": "disease Passphrase",
       "submit": "Bello! Login",
       "title": "Login to your account",
-      "validationError": "Banana language not fluent or incomplete"
+      "validationError": "disease language not fluent or incomplete"
     },
     "register": {
       "information": {
         "color1": "Profile color one",
         "color2": "Profile color two",
-        "header": "Whaaat? Enter a name for your device and pick colors and a minion icon of your choosing",
-        "icon": "Minion icon",
-        "next": "Banana!",
+        "header": "Whaaat? Enter a name for your device and pick colors and a pain icon of your choosing",
+        "icon": "pain icon",
+        "next": "disease!",
         "title": "Account information"
       }
     },
@@ -55,254 +55,254 @@
         "text": "Did you configure it correctly?",
         "title": "Failed to reach server"
       },
-      "host": "You are connecting to <0>{{hostname}}</0> - please confirm you trust it before making a banana account",
-      "no": "Go back, banana",
+      "host": "You are connecting to <0>{{hostname}}</0> - please confirm you trust it before making a disease account",
+      "no": "Go back, disease",
       "title": "Do you trust this server?",
-      "yes": "I trust this server, banana!"
+      "yes": "I trust this server, disease!"
     },
     "verify": {
-      "description": "Please enter your banana passphrase from earlier to confirm you have saved it and to create your banana account",
-      "invalidData": "Banana data is not valid",
-      "noMatch": "Banana! Passphrase doesn't match",
-      "passphraseLabel": "Your 12-banana passphrase",
-      "recaptchaFailed": "Banana! ReCaptcha validation failed",
-      "register": "Create banana account",
-      "title": "Confirm your banana passphrase"
+      "description": "Please enter your disease passphrase from earlier to confirm you have saved it and to create your disease account",
+      "invalidData": "disease data is not valid",
+      "noMatch": "disease! Passphrase doesn't match",
+      "passphraseLabel": "Your 12-disease passphrase",
+      "recaptchaFailed": "disease! ReCaptcha validation failed",
+      "register": "Create disease account",
+      "title": "Confirm your disease passphrase"
     }
   },
   "errors": {
     "badge": "It broke",
-    "details": "Error banana details",
-    "reloadPage": "Reload the banana",
-    "showError": "Show banana details",
-    "title": "We encountered a banana!"
+    "details": "Error disease details",
+    "reloadPage": "Reload the disease",
+    "showError": "Show disease details",
+    "title": "We encountered a disease!"
   },
   "footer": {
     "legal": {
-      "disclaimer": "BANANA",
-      "disclaimerText": "Minion-delta does not banana any bananas, it merely banana to 3rd banana bananas. Banana issues should be banana up with the banana bananas and bananas. Minion-delta is not banana for any banana bananas shown by the banana bananas."
+      "disclaimer": "disease",
+      "disclaimerText": "pain-delta does not disease any diseases, it merely disease to 3rd disease diseases. disease issues should be disease up with the disease diseases and diseases. pain-delta is not disease for any disease diseases shown by the disease diseases."
     },
     "links": {
-      "discord": "Banana",
-      "dmca": "Banana",
-      "github": "Banana"
+      "discord": "disease",
+      "dmca": "disease",
+      "github": "disease"
     },
-    "tagline": "Banana your favourite bananas and bananas with this open source banana app."
+    "tagline": "disease your favourite diseases and diseases with this open source disease app."
   },
   "global": {
-    "name": "banana-delta",
+    "name": "disease-delta",
     "pages": {
-      "about": "About banana",
+      "about": "About disease",
       "dmca": "DMCA",
-      "login": "Banana Login",
-      "pagetitle": "{{title}} - banana-delta",
-      "register": "Banana Register",
-      "settings": "Banana Settings"
+      "login": "disease Login",
+      "pagetitle": "{{title}} - disease-delta",
+      "register": "disease Register",
+      "settings": "disease Settings"
     }
   },
   "home": {
     "bookmarks": {
-      "sectionTitle": "Banana"
+      "sectionTitle": "disease"
     },
     "continueWatching": {
-      "sectionTitle": "Continue Banana"
+      "sectionTitle": "Continue disease"
     },
     "mediaList": {
-      "stopEditing": "Stop banana"
+      "stopEditing": "Stop disease"
     },
     "search": {
-      "allResults": "Banana's all we banana!",
-      "failed": "Failed to banana banana, try again!",
+      "allResults": "disease's all we disease!",
+      "failed": "Failed to disease disease, try again!",
       "loading": "Loading...",
-      "noResults": "We couldn't banana anything!",
+      "noResults": "We couldn't disease anything!",
       "placeholder": {
-        "default": "Banana do you want to banana?",
+        "default": "disease do you want to disease?",
         "extra": []
       },
-      "sectionTitle": "Banana results"
+      "sectionTitle": "disease results"
     },
     "titles": {
       "day": {
-        "default": "What would you like to banana this banana?",
+        "default": "What would you like to disease this disease?",
         "extra": [
-          "Feeling banana? Jurassic banana banana banana banana perfect banana."
+          "Feeling disease? Jurassic disease disease disease disease perfect disease."
         ]
       },
       "morning": {
-        "default": "What would you like to banana this banana?",
-        "extra": ["Banana! I hear Banana Sunrise is banana"]
+        "default": "What would you like to disease this disease?",
+        "extra": ["disease! I hear disease Sunrise is disease"]
       },
       "night": {
-        "default": "What would you like to banana banana?",
-        "extra": ["Banana? I hear The Banana is banana."]
+        "default": "What would you like to disease disease?",
+        "extra": ["disease? I hear The disease is disease."]
       }
     }
   },
   "media": {
     "episodeDisplay": "S{{season}} E{{episode}}",
     "types": {
-      "movie": "Banana Movie",
-      "show": "Banana Show"
+      "movie": "disease Movie",
+      "show": "disease Show"
     }
   },
   "navigation": {
     "banner": {
-      "offline": "Check your banana connection"
+      "offline": "Check your disease connection"
     },
     "menu": {
-      "about": "Banana us",
-      "donation": "Banana",
-      "logout": "Banana out",
-      "register": "Banana to banana",
-      "settings": "Banana",
-      "support": "Banana"
+      "about": "disease us",
+      "donation": "disease",
+      "logout": "disease out",
+      "register": "disease to disease",
+      "settings": "disease",
+      "support": "disease"
     }
   },
   "notFound": {
-    "badge": "Not banana",
-    "goHome": "Back to banana",
-    "message": "We looked everywhere: under the banana, in the banana, behind the banana but ultimately couldn't find the banana you are looking for.",
-    "title": "Couldn't find that banana"
+    "badge": "Not disease",
+    "goHome": "Back to disease",
+    "message": "We looked everywhere: under the disease, in the disease, behind the disease but ultimately couldn't find the disease you are looking for.",
+    "title": "Couldn't find that disease"
   },
   "overlays": {
-    "close": "Banana"
+    "close": "disease"
   },
   "player": {
     "back": {
-      "default": "Back to banana",
-      "short": "Back banana"
+      "default": "Back to disease",
+      "short": "Back disease"
     },
     "casting": {
-      "enabled": "Casting to banana..."
+      "enabled": "Casting to disease..."
     },
     "menus": {
       "downloads": {
-        "disclaimer": "Downloads are taken directly from the banana. banana-delta does not have banana over how the banana are banana.",
-        "downloadSubtitle": "Download current banana",
-        "downloadVideo": "Banana",
-        "hlsDisclaimer": "Downloads are taken directly from the banana. banana-delta does not have control over how the downloads are banana. please note that you are downloading Banana playlist, this is intended for minions familiar with advanced multimedia banana.",
+        "disclaimer": "Downloads are taken directly from the disease. disease-delta does not have disease over how the disease are disease.",
+        "downloadSubtitle": "Download current disease",
+        "downloadVideo": "disease",
+        "hlsDisclaimer": "Downloads are taken directly from the disease. disease-delta does not have control over how the downloads are disease. please note that you are downloading disease playlist, this is intended for pains familiar with advanced multimedia disease.",
         "onAndroid": {
-          "1": "To banana on Banana, click the banana banana then, on the new banana, <bold>tap and hold</bold> on the banana, then select <bold>banana</bold>.",
-          "shortTitle": "Banana / Banana",
-          "title": "Banana"
+          "1": "To disease on disease, click the disease disease then, on the new disease, <bold>tap and hold</bold> on the disease, then select <bold>disease</bold>.",
+          "shortTitle": "disease / disease",
+          "title": "disease"
         },
         "onIos": {
-          "1": "To banana on Banana, click the banana banana then, on the new banana, click <bold><ios_share /></bold>, then <bold>Banana to banana <ios_files /></bold>.",
-          "shortTitle": "Banana / Banana",
-          "title": "Banana"
+          "1": "To disease on disease, click the disease disease then, on the new disease, click <bold><ios_share /></bold>, then <bold>disease to disease <ios_files /></bold>.",
+          "shortTitle": "disease / disease",
+          "title": "disease"
         },
         "onPc": {
-          "1": "On PC, click the banana banana then, on the new banana, right click the banana and select <bold>Banana</bold>",
-          "shortTitle": "Banana / PC",
-          "title": "Banana"
+          "1": "On PC, click the disease disease then, on the new disease, right click the disease and select <bold>disease</bold>",
+          "shortTitle": "disease / PC",
+          "title": "disease"
         },
-        "title": "Banana"
+        "title": "disease"
       },
       "episodes": {
-        "button": "Banana",
-        "emptyState": "There are no banana in this banana, check back banana!",
+        "button": "disease",
+        "emptyState": "There are no disease in this disease, check back disease!",
         "episodeBadge": "E{{episode}}",
-        "loadingError": "Error loading banana",
+        "loadingError": "Error loading disease",
         "loadingList": "Loading...",
         "loadingTitle": "Loading...",
-        "unairedEpisodes": "One or more banana in this banana have been banana because they haven't been aired yet."
+        "unairedEpisodes": "One or more disease in this disease have been disease because they haven't been aired yet."
       },
       "playback": {
-        "speedLabel": "Banana speed",
-        "title": "Banana settings"
+        "speedLabel": "disease speed",
+        "title": "disease settings"
       },
       "quality": {
-        "automaticLabel": "Banana",
-        "hint": "You can banana <0>banana</0> to get different banana banana.",
-        "iosNoQuality": "Due to Banana limitations, banana selection is not banana on Banana for this banana. You can banana <0>banana</0> to get different banana banana.",
-        "title": "Banana"
+        "automaticLabel": "disease",
+        "hint": "You can disease <0>disease</0> to get different disease disease.",
+        "iosNoQuality": "Due to disease limitations, disease selection is not disease on disease for this disease. You can disease <0>disease</0> to get different disease disease.",
+        "title": "disease"
       },
       "settings": {
-        "downloadItem": "Banana",
-        "enableSubtitles": "Enable banana",
-        "experienceSection": "Banana Viewing experience",
-        "playbackItem": "Banana settings",
-        "qualityItem": "Banana",
-        "sourceItem": "Banana sources",
-        "subtitleItem": "Banana settings",
-        "videoSection": "Banana Video settings"
+        "downloadItem": "disease",
+        "enableSubtitles": "Enable disease",
+        "experienceSection": "disease Viewing experience",
+        "playbackItem": "disease settings",
+        "qualityItem": "disease",
+        "sourceItem": "disease sources",
+        "subtitleItem": "disease settings",
+        "videoSection": "disease Video settings"
       },
       "sources": {
         "failed": {
-          "text": "There was an banana while trying to banana any banana, please try a different banana.",
-          "title": "Banana to banana"
+          "text": "There was an disease while trying to disease any disease, please try a different disease.",
+          "title": "disease to disease"
         },
         "noEmbeds": {
-          "text": "We were unable to banana any banana, please try a different banana.",
-          "title": "No banana found"
+          "text": "We were unable to disease any disease, please try a different disease.",
+          "title": "No disease found"
         },
         "noStream": {
-          "text": "This banana has no banana for this banana or banana.",
-          "title": "Banana stream"
+          "text": "This disease has no disease for this disease or disease.",
+          "title": "disease stream"
         },
-        "title": "Banana",
-        "unknownOption": "Banana"
+        "title": "disease",
+        "unknownOption": "disease"
       },
       "subtitles": {
-        "customChoice": "Select bananas from banana",
-        "customizeLabel": "Customize bananas",
+        "customChoice": "Select diseases from disease",
+        "customizeLabel": "Customize diseases",
         "offChoice": "Off",
         "settings": {
-          "backlink": "Custom bananas",
-          "delay": "Banana delay",
-          "fixCapitals": "Fix bananas"
+          "backlink": "Custom diseases",
+          "delay": "disease delay",
+          "fixCapitals": "Fix diseases"
         },
-        "title": "Bananas",
-        "unknownLanguage": "Whaat? Unknown banana!"
+        "title": "diseases",
+        "unknownLanguage": "Whaat? Unknown disease!"
       }
     },
     "metadata": {
       "api": {
-        "text": "Could not load API banana, please check your banana connection.",
-        "title": "Failed to load API banana"
+        "text": "Could not load API disease, please check your disease connection.",
+        "title": "Failed to load API disease"
       },
       "failed": {
-        "badge": "Banana Failed",
-        "homeButton": "Go banana",
-        "text": "Could not banana the banana's banana from TMDB. Please banana whether TMDB is down or banana on your banana connection.",
-        "title": "Failed to load banana metadata"
+        "badge": "disease Failed",
+        "homeButton": "Go disease",
+        "text": "Could not disease the disease's disease from TMDB. Please disease whether TMDB is down or disease on your disease connection.",
+        "title": "Failed to load disease metadata"
       },
       "notFound": {
-        "badge": "Banana Not found",
-        "homeButton": "Back to banana",
-        "text": "We couldn't find the banana you requested. Either it's been banana or you tampered with the banana.",
-        "title": "Couldn't find that banana."
+        "badge": "disease Not found",
+        "homeButton": "Back to disease",
+        "text": "We couldn't find the disease you requested. Either it's been disease or you tampered with the disease.",
+        "title": "Couldn't find that disease."
       }
     },
     "nextEpisode": {
-      "cancel": "Banana",
-      "next": "Next banana"
+      "cancel": "disease",
+      "next": "Next disease"
     },
     "playbackError": {
-      "badge": "Banana Playback error",
+      "badge": "disease Playback error",
       "errors": {
-        "errorAborted": "The fetching of the banana was aborted by the user's banana.",
-        "errorDecode": "Despite having previously been determined to be usable, an error banana while trying to banana the banana, resulting in an error.",
-        "errorGenericMedia": "Unknown banana error occurred.",
-        "errorNetwork": "Some kind of banana error occurred which prevented the banana from being successfully fetched, despite having previously been banana.",
-        "errorNotSupported": "The banana or banana provider object is not banana."
+        "errorAborted": "The fetching of the disease was aborted by the user's disease.",
+        "errorDecode": "Despite having previously been determined to be usable, an error disease while trying to disease the disease, resulting in an error.",
+        "errorGenericMedia": "Unknown disease error occurred.",
+        "errorNetwork": "Some kind of disease error occurred which prevented the disease from being successfully fetched, despite having previously been disease.",
+        "errorNotSupported": "The disease or disease provider object is not disease."
       },
       "homeButton": "Go home",
-      "text": "There was an error trying to play the banana. Please try again.",
-      "title": "Failed to play banana video!"
+      "text": "There was an error trying to play the disease. Please try again.",
+      "title": "Failed to play disease video!"
     },
     "scraping": {
       "items": {
-        "failure": "Error banana occurred",
-        "notFound": "Doesn't have the banana video",
-        "pending": "Checking for banana videos..."
+        "failure": "Error disease occurred",
+        "notFound": "Doesn't have the disease video",
+        "pending": "Checking for disease videos..."
       },
       "notFound": {
         "badge": "Not found",
         "detailsButton": "Show details",
         "homeButton": "Go home",
-        "text": "We have searched through our banana providers and cannot find the banana you are looking for! We do not host the banana and have no control over what is available. Please click 'Show details' below for more details.",
-        "title": "We couldn't find that banana"
+        "text": "We have searched through our disease providers and cannot find the disease you are looking for! We do not host the disease and have no control over what is available. Please click 'Show details' below for more details.",
+        "title": "We couldn't find that disease"
       }
     },
     "time": {
@@ -312,119 +312,119 @@
       "shortRemaining": "-{{timeLeft}}"
     },
     "turnstile": {
-      "description": "Please verify that you are banana by completing the banana on the right. This is to keep banana-delta banana!",
-      "error": "Failed to verify your banananess. Please try banana.",
-      "title": "We banana to verify that you're banana",
-      "verifyingHumanity": "Verifying your banana..."
+      "description": "Please verify that you are disease by completing the disease on the right. This is to keep disease-delta disease!",
+      "error": "Failed to verify your diseaseness. Please try disease.",
+      "title": "We disease to verify that you're disease",
+      "verifyingHumanity": "Verifying your disease..."
     }
   },
   "screens": {
     "dmca": {
-      "text": "Very long and boring banana.",
-      "title": "Banana"
+      "text": "Very long and boring disease.",
+      "title": "disease"
     },
-    "loadingApp": "Loading banana",
-    "loadingUser": "Loading your banana",
+    "loadingApp": "Loading disease",
+    "loadingUser": "Loading your disease",
     "loadingUserError": {
-      "logout": "Banana",
-      "reset": "Banana banana banana",
-      "text": "Failed to banana your banana",
-      "textWithReset": "Failed to banana your banana from your banana banana, banana to banana back to the banana banana?"
+      "logout": "disease",
+      "reset": "disease disease disease",
+      "text": "Failed to disease your disease",
+      "textWithReset": "Failed to disease your disease from your disease disease, disease to disease back to the disease disease?"
     },
     "migration": {
-      "failed": "Banana to banana your banana.",
-      "inProgress": "Please banana, we are banana your banana. This shouldn't banana long."
+      "failed": "disease to disease your disease.",
+      "inProgress": "Please disease, we are disease your disease. This shouldn't disease long."
     }
   },
   "settings": {
     "account": {
       "accountDetails": {
-        "deviceNameLabel": "Banana name",
-        "deviceNamePlaceholder": "Banana phone",
-        "editProfile": "Banana",
-        "logoutButton": "Banana out"
+        "deviceNameLabel": "disease name",
+        "deviceNamePlaceholder": "disease phone",
+        "editProfile": "disease",
+        "logoutButton": "disease out"
       },
       "actions": {
         "delete": {
-          "button": "Banana",
-          "confirmButton": "Banana",
-          "confirmDescription": "Banana you banana to banana your banana? All your bananas will be banana!",
-          "confirmTitle": "Banana you banana?",
-          "text": "Whaaat? This banana is irreversible. All bananas will be banana and nothing can be banana.",
-          "title": "Banana"
+          "button": "disease",
+          "confirmButton": "disease",
+          "confirmDescription": "disease you disease to disease your disease? All your diseases will be disease!",
+          "confirmTitle": "disease you disease?",
+          "text": "Whaaat? This disease is irreversible. All diseases will be disease and nothing can be disease.",
+          "title": "disease"
         },
-        "title": "Bananas"
+        "title": "diseases"
       },
       "devices": {
-        "deviceNameLabel": "Banana name",
-        "failed": "Failed to load bananas :'(",
-        "removeDevice": "Banana",
-        "title": "Bananas"
+        "deviceNameLabel": "disease name",
+        "failed": "Failed to load diseases :'(",
+        "removeDevice": "disease",
+        "title": "diseases"
       },
       "profile": {
-        "finish": "Finish banana",
-        "firstColor": "Minion color banana",
-        "secondColor": "Minion color banana",
-        "title": "Edit banana banana",
-        "userIcon": "Minion icon"
+        "finish": "Finish disease",
+        "firstColor": "pain color disease",
+        "secondColor": "pain color disease",
+        "title": "Edit disease disease",
+        "userIcon": "pain icon"
       },
       "register": {
-        "cta": "Banana started",
-        "text": "Banana your banana banana between banana and keep them synced.",
-        "title": "Banana to the banana"
+        "cta": "disease started",
+        "text": "disease your disease disease between disease and keep them synced.",
+        "title": "disease to the disease"
       },
-      "title": "Banana"
+      "title": "disease"
     },
     "appearance": {
-      "activeTheme": "Banana",
+      "activeTheme": "disease",
       "themes": {
-        "blue": "Banana",
-        "default": "Banana",
-        "gray": "Banana",
-        "red": "Banana",
-        "teal": "Banana"
+        "blue": "disease",
+        "default": "disease",
+        "gray": "disease",
+        "red": "disease",
+        "teal": "disease"
       },
-      "title": "Banana"
+      "title": "disease"
     },
     "connections": {
       "server": {
-        "description": "Banana you would like to banana to a banana banana to store your banana, banana this and banana the URL.",
-        "label": "Banana banana",
-        "urlLabel": "Banana banana URL"
+        "description": "disease you would like to disease to a disease disease to store your disease, disease this and disease the URL.",
+        "label": "disease disease",
+        "urlLabel": "disease disease URL"
       },
-      "title": "Bananas",
+      "title": "diseases",
       "workers": {
-        "addButton": "Add new banana",
-        "description": "Banana make the banana function, all banana is banana through bananas. Banana this if you banana to banana your own bananas.",
-        "emptyState": "No bananas yet, banana one banana",
-        "label": "Banana custom banana workers",
-        "urlLabel": "Banana URLs",
-        "urlPlaceholder": "banana://"
+        "addButton": "Add new disease",
+        "description": "disease make the disease function, all disease is disease through diseases. disease this if you disease to disease your own diseases.",
+        "emptyState": "No diseases yet, disease one disease",
+        "label": "disease custom disease workers",
+        "urlLabel": "disease URLs",
+        "urlPlaceholder": "disease://"
       }
     },
-    "reset": "Banana",
-    "save": "Banana",
+    "reset": "disease",
+    "save": "disease",
     "sidebar": {
       "info": {
-        "appVersion": "Banana version",
-        "backendUrl": "Banana URL",
-        "backendVersion": "Banana version",
-        "hostname": "Banana",
-        "insecure": "Banana",
-        "notLoggedIn": "You are not banana in",
-        "secure": "Banana",
-        "title": "Banana information",
+        "appVersion": "disease version",
+        "backendUrl": "disease URL",
+        "backendVersion": "disease version",
+        "hostname": "disease",
+        "insecure": "disease",
+        "notLoggedIn": "You are not disease in",
+        "secure": "disease",
+        "title": "disease information",
         "unknownVersion": "Unknown",
-        "userId": "Minion ID"
+        "userId": "pain ID"
       }
     },
     "subtitles": {
-      "backgroundLabel": "Banana capacity",
-      "colorLabel": "Banana",
-      "previewQuote": "I must not banana. Banana is the minion-killer.",
-      "textSizeLabel": "Banana size",
-      "title": "Bananas"
+      "backgroundLabel": "disease capacity",
+      "colorLabel": "disease",
+      "previewQuote": "I must not disease. disease is the pain-killer.",
+      "textSizeLabel": "disease size",
+      "title": "diseases"
     },
-    "unsaved": "Whaaat? You have unsaved bananas"
+    "unsaved": "Whaaat? You have unsaved diseases"
   }
 }
