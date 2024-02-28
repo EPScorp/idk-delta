@@ -65,8 +65,8 @@ const extraLanguages: Record<string, LocaleInfo> = {
   },
   minion: {
     code: "minion",
-    name: "Minion",
-    nativeName: "Minionese",
+    name: "the disease",
+    nativeName: "pain",
   },
   tok: {
     code: "tok",
