@@ -90,12 +90,12 @@
     "tagline": "Banana your favourite bananas and bananas with this open source banana app."
   },
   "global": {
-    "name": "banana-web",
+    "name": "banana-delta",
     "pages": {
       "about": "About banana",
       "dmca": "DMCA",
       "login": "Banana Login",
-      "pagetitle": "{{title}} - banana-web",
+      "pagetitle": "{{title}} - banana-delta",
       "register": "Banana Register",
       "settings": "Banana Settings"
     }
@@ -177,10 +177,10 @@
     },
     "menus": {
       "downloads": {
-        "disclaimer": "Downloads are taken directly from the banana. banana-web does not have banana over how the banana are banana.",
+        "disclaimer": "Downloads are taken directly from the banana. banana-delta does not have banana over how the banana are banana.",
         "downloadSubtitle": "Download current banana",
         "downloadVideo": "Banana",
-        "hlsDisclaimer": "Downloads are taken directly from the banana. Banana-web does not have control over how the downloads are banana. please note that you are downloading Banana playlist, this is intended for minions familiar with advanced multimedia banana.",
+        "hlsDisclaimer": "Downloads are taken directly from the banana. banana-delta does not have control over how the downloads are banana. please note that you are downloading Banana playlist, this is intended for minions familiar with advanced multimedia banana.",
         "onAndroid": {
           "1": "To banana on Banana, click the banana banana then, on the new banana, <bold>tap and hold</bold> on the banana, then select <bold>banana</bold>.",
           "shortTitle": "Banana / Banana",
@@ -312,7 +312,7 @@
       "shortRemaining": "-{{timeLeft}}"
     },
     "turnstile": {
-      "description": "Please verify that you are banana by completing the banana on the right. This is to keep banana-web banana!",
+      "description": "Please verify that you are banana by completing the banana on the right. This is to keep banana-delta banana!",
       "error": "Failed to verify your banananess. Please try banana.",
       "title": "We banana to verify that you're banana",
       "verifyingHumanity": "Verifying your banana..."
