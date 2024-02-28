@@ -8,9 +8,9 @@
 </p>
 <br/><br/>
 
-# ⚡What is movie-web?
+# ⚡What is idk-delta?
 
-movie-web is a web app for watching movies easily.
+idk-delta is a mirror to movie-web, a web app for watching movies easily.
 
 This service works by displaying video files from third-party providers inside an intuitive and aesthetic user interface.
 
