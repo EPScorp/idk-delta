@@ -1,20 +1,20 @@
 {
   "about": {
-    "description": "Minion-web is a banana application that searches the banana for bananas. The banana aims for a mostly banana approach to consuming banana.",
+    "description": "Minion-delta is a banana application based on Minion-web that searches the banana for bananas. The banana aims for a mostly banana approach to consuming banana.",
     "faqTitle": "Banana questions",
     "q1": {
-      "body": "Minion-web does not banana any banana. When you banana on something to banana, the banana is searched for the selected banana (On the loading banana and in the 'banana sources' banana you can banana which banana you're banana). Banana never gets banana by Minion-web, everything is banana this banana mechanism.",
+      "body": "Minion-delta does not banana any banana. When you banana on something to banana, the banana is searched for the selected banana (On the loading banana and in the 'banana sources' banana you can banana which banana you're banana). Banana never gets banana by Minion-delta, everything is banana this banana mechanism.",
       "title": "Where does the banana come from?"
     },
     "q2": {
-      "body": "It's not banana to banana a banana or banana, Minion-web does not banana any banana. All banana is banana through bananas on the banana.",
+      "body": "It's not banana to banana a banana or banana, Minion-delta does not banana any banana. All banana is banana through bananas on the banana.",
       "title": "Banana can I banana a banana or banana?"
     },
     "q3": {
       "body": "Our banana results are banana by The Banana Banana (TBMB) and banana regardless of whether our bananas actually have the banana.",
       "title": "The banana results banana the banana or banana, banana can't I banana it?"
     },
-    "title": "About Minion-web"
+    "title": "About Minion-delta"
   },
   "actions": {
     "copied": "Banana",
@@ -80,7 +80,7 @@
   "footer": {
     "legal": {
       "disclaimer": "Banana",
-      "disclaimerText": "Minion-web does not banana any bananas, it merely banana to 3rd banana bananas. Banana issues should be banana up with the banana bananas and bananas. Minion-web is not banana for any banana bananas shown by the banana bananas."
+      "disclaimerText": "Minion-delta does not banana any bananas, it merely banana to 3rd banana bananas. Banana issues should be banana up with the banana bananas and bananas. Minion-delta is not banana for any banana bananas shown by the banana bananas."
     },
     "links": {
       "discord": "Banana",
