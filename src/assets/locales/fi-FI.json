@@ -1,20 +1,20 @@
 {
   "about": {
-    "description": "movie-web on verkkosovellus, joka etsii suoratoistoja internetistä. Tiimi pyrkii enimmäkseen minimalistiseen lähestymistapaan sisällön kuluttamiseen.",
+    "description": "idk-delta on verkkosovellus, joka etsii suoratoistoja internetistä. Tiimi pyrkii enimmäkseen minimalistiseen lähestymistapaan sisällön kuluttamiseen.",
     "faqTitle": "Yleisiä kysymyksiä",
     "q1": {
-      "body": "movie-web ei isännöi mitään sisältöä. Kun klikkaat jotain katsottavaa, valittua mediaa etsitään internetistä (latausnäytössä ja 'videolähteet'-välilehdellä näet, mitä lähdettä käytät). movie-web ei koskaan lataa mediaa, kaikki tapahtuu tämän hakumekanismin kautta.",
+      "body": "idk-delta ei isännöi mitään sisältöä. Kun klikkaat jotain katsottavaa, valittua mediaa etsitään internetistä (latausnäytössä ja 'videolähteet'-välilehdellä näet, mitä lähdettä käytät). idk-delta ei koskaan lataa mediaa, kaikki tapahtuu tämän hakumekanismin kautta.",
       "title": "Mistä sisältö tulee?"
     },
     "q2": {
-      "body": "Ohjelmaa tai elokuvaa ei voi pyytää, movie-web ei hallinnoi sisältöä. Kaikki sisältö katsotaan internetin lähteistä.",
+      "body": "Ohjelmaa tai elokuvaa ei voi pyytää, idk-delta ei hallinnoi sisältöä. Kaikki sisältö katsotaan internetin lähteistä.",
       "title": "Missä voin pyytää sarjaa tai elokuvaa?"
     },
     "q3": {
       "body": "Hakutuloksemme perustuvat The Movie Database (TMDB) -tietokantaan, ja ne näkyvät riippumatta siitä, onko sisältöä oikeasti lähteissämme.",
       "title": "Hakutuloksissa näytetään ohjelma tai elokuva. Miksi en voi toistaa sitä?"
     },
-    "title": "Tietoja movie-webistä"
+    "title": "Tietoja idk-deltaistä"
   },
   "actions": {
     "copied": "Kopioitu",
@@ -79,8 +79,8 @@
   },
   "footer": {
     "legal": {
-      "disclaimer": "Vastuuvapauslauseke",
-      "disclaimerText": "movie-web ei isännöi tiedostoja, se vain linkittää kolmannen osapuolen palveluihin. Lakiasioista tulee ottaa yhteyttä tiedostoisäntään ja palveluntarjoajiin. movie-web ei ole vastuussa videontarjoajien näyttämistä mediatiedostoista."
+      "disclaimer": "VASTUUVAPAUSLAUSEKE",
+      "disclaimerText": "idk-delta ei isännöi tiedostoja, se vain linkittää kolmannen osapuolen palveluihin. Lakiasioista tulee ottaa yhteyttä tiedostoisäntään ja palveluntarjoajiin. idk-delta ei ole vastuussa videontarjoajien näyttämistä mediatiedostoista."
     },
     "links": {
       "discord": "Discord",
@@ -90,13 +90,13 @@
     "tagline": "Katso suosikkiohjelmiasi ja elokuviasi tällä avoimen lähdekoodin suoratoistosovelluksella."
   },
   "global": {
-    "name": "movie-web",
+    "name": "idk-delta",
     "pages": {
       "about": "Meistä",
       "dmca": "DMCA",
       "login": "Kirjaudu sisään",
       "onboarding": "asetus",
-      "pagetitle": "{{title}} - movie-web",
+      "pagetitle": "{{title}} - idk-delta",
       "register": "Rekisteröidy",
       "settings": "Asetukset"
     }
