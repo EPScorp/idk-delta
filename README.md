@@ -10,7 +10,7 @@
 
 # ⚡What is idk-delta?
 
-idk-delta is a mirror to movie-web, a web app for watching movies easily.
+idk-delta is an instance of movie-web, a web app for watching movies easily.
 
 This service works by displaying video files from third-party providers inside an intuitive and aesthetic user interface.
 
