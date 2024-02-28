@@ -2,7 +2,7 @@
   "name": "idk-delta",
   "version": "4.5.0",
   "private": true,
-  "homepage": "https://github.com/movie-web/movie-web",
+  "homepage": "https://github.com/EPScorp/idk-delta",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
