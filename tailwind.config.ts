@@ -16,7 +16,7 @@ const config: Config = {
 
       /* fonts */
       fontFamily: {
-        "ubuntu-regular": "'Ubuntu'",
+        "open-sans": "'Open Sans'",
       },
 
       /* animations */
