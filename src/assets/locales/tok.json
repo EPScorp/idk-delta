@@ -1,20 +1,20 @@
 {
   "about": {
-    "description": "ilo Muwi-We li lukin li wile e sitelen. kulupu lawa li lawa pona",
+    "description": "idk-delta li lukin li wile e sitelen. kulupu lawa li lawa pona",
     "faqTitle": "sona wile",
     "q1": {
-      "body": "ilo Muwi-We li mama ala e sitelen. sina lukin e sitelen la mi alasa e sitelen lon lipu ale. (sina ken sona e mama sitelen lon tenpo alasa lon poki 'mama'.) sitelen li awen ala lon ilo Muwi-We. ale li lon alasa ni",
+      "body": "idk-delta li mama ala e sitelen. sina lukin e sitelen la mi alasa e sitelen lon lipu ale. (sina ken sona e mama sitelen lon tenpo alasa lon poki 'mama'.) sitelen li awen ala lon idk-delta. ale li lon alasa ni",
       "title": "sitelen li tan seme?"
     },
     "q2": {
-      "body": "sina ken ala wile alasa e sitelen. ilo Muwi-We li lawa ala e sitelen. sitelen li tan lipu mama ante",
+      "body": "sina ken ala wile alasa e sitelen. idk-delta li lawa ala e sitelen. sitelen li tan lipu mama ante",
       "title": "mi wile alasa e sitelen lon seme?"
     },
     "q3": {
       "body": "sitelen lon lukin ilo li tan lipu The Movie Database (lipu TMDB). jo li ante ala e ni",
       "title": "sitelen pi wile mi li lon lukin ilo. seme la mi ken ala lukin e ona?"
     },
-    "title": "ilo Muwi-We la"
+    "title": "idk-delta la"
   },
   "actions": {
     "copied": "sama a",
@@ -89,13 +89,13 @@
     "tagline": "o lukin e sitelen ale pi wile sina kepeken ilo ni"
   },
   "global": {
-    "name": "ilo Muwi-We",
+    "name": "idk-delta",
     "pages": {
       "about": "o sona",
       "dmca": "DMCA",
       "login": "o open",
       "onboarding": "o pali",
-      "pagetitle": "{{title}} - ilo Muwi-We",
+      "pagetitle": "{{title}} - idk-delta",
       "register": "o pali open",
       "settings": "o ante"
     }
@@ -164,7 +164,7 @@
   },
   "onboarding": {
     "start": {
-      "title": "o open e ilo Muwi-We"
+      "title": "o open e idk-delta"
     }
   },
   "overlays": {
@@ -180,10 +180,10 @@
     },
     "menus": {
       "downloads": {
-        "disclaimer": "sina kama jo e sitelen tawa ilo sina tan lipu mama. ilo Muwi-We li lawa ala e nasin jo",
+        "disclaimer": "sina kama jo e sitelen tawa ilo sina tan lipu mama. idk-delta li lawa ala e nasin jo",
         "downloadSubtitle": "o jo e nimi toki",
         "downloadVideo": "o jo e sitelen",
-        "hlsDisclaimer": "jo li tan mama. ilo Muwi-We li lawa ala e nasin jo. o sona e ni: sina jo e lipu sitelen HLS. ni li tawa jan pi sona sitelen",
+        "hlsDisclaimer": "jo li tan mama. idk-delta li lawa ala e nasin jo. o sona e ni: sina jo e lipu sitelen HLS. ni li tawa jan pi sona sitelen",
         "onAndroid": {
           "1": "ilo Android la o luka e nena 'o jo'. lon lipu sin la <bold>o luka wawa</bold> e sitelen. o luka e nena 'o jo'",
           "shortTitle": "Android ) o jo",
@@ -319,7 +319,7 @@
       "shortRemaining": "-{{timeLeft}}"
     },
     "turnstile": {
-      "description": "sina jan la o pali e ilo Captcha lon poka ni. mi wile awen e ilo Muwi-We a!",
+      "description": "sina jan la o pali e ilo Captcha lon poka ni. mi wile awen e idk-delta a!",
       "error": "mi lukin e ni: ken la sina jan ala. o alasa sin",
       "title": "sina o jan",
       "verifyingHumanity": "sina jan ala jan?"
@@ -384,7 +384,7 @@
     "appearance": {
       "activeTheme": "lon",
       "themes": {
-        "blue": "laso",
+        "blue": "laso loje",
         "default": "sama",
         "gray": "pimeja",
         "red": "loje",
