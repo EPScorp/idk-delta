@@ -60,8 +60,8 @@ export interface LocaleInfo {
 const extraLanguages: Record<string, LocaleInfo> = {
   pirate: {
     code: "pirate",
-    name: "Pirate",
-    nativeName: "Pirate Tongue",
+    name: "British (United Kingdom)",
+    nativeName: "English",
   },
   minion: {
     code: "minion",
