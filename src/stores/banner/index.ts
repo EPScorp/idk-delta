@@ -16,7 +16,7 @@ interface BannerStore {
   ignoredBannerIds: string[];
   updateHeight(id: string, height: number): void;
   showBanner(id: string): void;
-  hideBanner(id: string, force?: boolean): void
+  hideBanner(id: string, force?: boolean): void;
   setLocation(loc: string | null): void;
   updateOnline(isOnline: boolean): void;
   updateTurnstile(isTurnstile: boolean): void;
