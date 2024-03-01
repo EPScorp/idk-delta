@@ -267,7 +267,7 @@
       },
       "episodes": {
         "button": "Épisodes",
-        "Cette saison ne contient aucun épisode, revenez plus tard !",
+        "emptyState": "Cette saison ne contient aucun épisode, revenez plus tard !",
         "episodeBadge": "E{{episode}}",
         "loadingError": "Erreur lors du chargement de la saison",
         "loadingList": "Chargement...",
