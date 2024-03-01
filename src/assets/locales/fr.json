@@ -7,7 +7,7 @@
       "title": "D'où vient le contenu ?"
     },
     "q2": {
-      "body": "Il est impossible de demander un film ou une série car movie-web ne gère aucun contenu. Le contenu est récupéré en explorant d'autres sites sur Internet.",
+      "body": "Il est impossible de demander un film ou une série car idk-delta ne gère aucun contenu. Le contenu est récupéré en explorant d'autres sites sur Internet.",
       "title": "Où puis-je demander une série ou un film ?"
     },
     "q3": {
@@ -227,7 +227,7 @@
           "title": "Proxy personnalisé"
         }
       },
-      "title": "Commençons par configurer movie-web"
+      "title": "Commençons par configurer idk-delta"
     }
   },
   "overlays": {
