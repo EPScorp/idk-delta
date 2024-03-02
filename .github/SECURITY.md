@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-The latest version of movie-web is the only version that is supported, as it is the only version that is being actively developed.
+The latest version of idk-delta is the only version that is supported, as it is the only version that is being actively developed.
 
 ## Reporting a Vulnerability
 
