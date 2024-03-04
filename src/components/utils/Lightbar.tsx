@@ -183,6 +183,18 @@ function ParticlesCanvas() {
       imageParticleCount = particleCount / 2;
     }
 
+    // disease easter egg
+    const shouldShowDisease = Math.random() < 0.5; // 50%
+    if (shouldShowDisease) {
+      imageOverride = [
+        {
+          image: "/lightbar-images/disease.png",
+          sizeRange: [30, 38] as [number, number],
+        },
+      ];
+      imageParticleCount = particleCount / 4;
+    }
+    
     // HOIST THE SAIL (of particles)!
     for (let i = 0; i < particleCount; i += 1) {
       const isImageParticle = imageOverride && i <= imageParticleCount;
