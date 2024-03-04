@@ -176,7 +176,7 @@ function ParticlesCanvas() {
     if (shouldShowIdk) {
       imageOverride = [
         {
-          image: "/lightbar-images/fishie.png",
+          image: "/lightbar-images/idk.png",
           sizeRange: [10, 11] as [number, number],
         },
       ];
