@@ -160,8 +160,20 @@ function ParticlesCanvas() {
     }
 
     // Fish easter egg
-    const shouldShowFishie = Math.random() < 1;
+    const shouldShowFishie = Math.random() < 0.1; // 10%
     if (shouldShowFishie) {
+      imageOverride = [
+        {
+          image: "/lightbar-images/fishie.png",
+          sizeRange: [10, 11] as [number, number],
+        },
+      ];
+      imageParticleCount = particleCount / 2;
+    }
+
+    // idk particles
+    const shouldShowIdk = Math.random() < 1; // this is lazy coding but whatever
+    if (shouldShowIdk) {
       imageOverride = [
         {
           image: "/lightbar-images/fishie.png",
