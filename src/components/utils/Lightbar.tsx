@@ -184,7 +184,7 @@ function ParticlesCanvas() {
     }
 
     // disease easter egg
-    const shouldShowDisease = Math.random() < 0.5; // 50%
+    const shouldShowDisease = Math.random() < 0.3; // 30%
     if (shouldShowDisease) {
       imageOverride = [
         {
