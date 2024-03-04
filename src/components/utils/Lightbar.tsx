@@ -138,7 +138,7 @@ function ParticlesCanvas() {
     canvas.height = canvas.scrollHeight;
 
     // Basic particle config
-    const particleCount = 20;
+    const particleCount = 40;
     let imageParticleCount = particleCount;
 
     // Holiday overrides
