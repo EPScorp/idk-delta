@@ -194,7 +194,7 @@ function ParticlesCanvas() {
       ];
       imageParticleCount = particleCount / 4;
     }
-    
+ 
     // HOIST THE SAIL (of particles)!
     for (let i = 0; i < particleCount; i += 1) {
       const isImageParticle = imageOverride && i <= imageParticleCount;
