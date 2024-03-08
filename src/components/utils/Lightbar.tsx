@@ -195,6 +195,30 @@ function ParticlesCanvas() {
       imageParticleCount = particleCount / 4;
     }
 
+        // shhh easter egg
+    const shouldShowShhh = Math.random() < 0.2; // 20%
+    if (shouldShowShhh) {
+      imageOverride = [
+        {
+          image: "/lightbar-images/shhh.png",
+          sizeRange: [30, 38] as [number, number],
+        },
+      ];
+      imageParticleCount = particleCount / 4;
+    }
+
+        // peak easter egg
+    const shouldShowPeak = Math.random() < 0.15; // 15%
+    if (shouldShowPeak) {
+      imageOverride = [
+        {
+          image: "/lightbar-images/peak.png",
+          sizeRange: [30, 38] as [number, number],
+        },
+      ];
+      imageParticleCount = particleCount / 4;
+    }
+
     // HOIST THE SAIL (of particles)!
     for (let i = 0; i < particleCount; i += 1) {
       const isImageParticle = imageOverride && i <= imageParticleCount;
