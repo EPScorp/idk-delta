@@ -196,7 +196,7 @@ function ParticlesCanvas() {
     }
 
     // shhh easter egg
-    const shouldShowShhh = Math.random() < 0.2; // 20%
+    const shouldShowShhh = Math.random() < 0.15; // 15%
     if (shouldShowShhh) {
       imageOverride = [
         {
